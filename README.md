@@ -15,6 +15,7 @@ During my career, I've also taken on the role of a Technical Lead. This dual res
 # 📊 GitHub Stats:
 <div>
 <a href="https://github.com/juliakroger">
-  <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?username=juliakroger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=juliakroger&theme=dracula&hide_border=false&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakroger&layout=compact&langs_count=7&theme=dracula"/>
 </div>
