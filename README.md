@@ -3,6 +3,9 @@
 I'm Júlia Kroger, a passionate software developer and tech enthusiast. I currently work as a Senior Software Developer at Seedify. </br>
 With over 5 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliakroger)
+
+
 # 🚀 Expertise
 Dedicated to delivering seamless and engaging user interactions, I specialize in both front-end and back-end web development, combining modern frameworks with industry-standard design methodologies. My experience encompasses leading teams, desiging architectures and consistently achieving optimal web performance.
 
