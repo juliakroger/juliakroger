@@ -13,6 +13,8 @@ During my career, I've also taken on the role of a Technical Lead. This dual res
 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juliakroger&theme=dracula&hide_border=false"  width="500px" />
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=juliakroger&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="500px" />
-
+<div>
+<a href="https://github.com/juliakroger">
+  <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?username=juliakroger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakroger&layout=compact&langs_count=7&theme=dracula"/>
+</div>
