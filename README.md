@@ -12,10 +12,8 @@ Dedicated to delivering seamless and engaging user interactions, I specialize in
 During my career, I've also taken on the role of a Technical Lead. This dual responsibility allowed me to leverage my technical prowess while overseeing team dynamics. In addition to designing exceptional user interfaces, I provided strategic direction, ensuring projects were executed with precision and efficiency. This combination of technical proficiency and leadership skills has been instrumental in achieving successful outcomes for my projects.
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Used Languages:
 <div>
 <a href="https://github.com/juliakroger">
-  <img loading="lazy" height="180em" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=juliakroger&theme=dracula&hide_border=false&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakroger&layout=compact&langs_count=7&theme=dracula"/>
 </div>
