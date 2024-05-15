@@ -4,6 +4,8 @@ I'm Júlia Kroger, a passionate software developer and tech enthusiast. I curren
 With over 5 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliakroger)
+
+
 [Portfolio](https://juliakroger.netlify.app/)
 
 # 🚀 Expertise
