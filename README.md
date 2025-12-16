@@ -1,11 +1,8 @@
 # 👋 Hi there
 
-I'm Júlia Kroger, a passionate software developer. I currently work as a Senior Software Developer at Seedify. </br>
-With 7+ years of experience in the javascript field, I've had the opportunity to work on various exciting projects and explore different technologies.
+I'm Júlia, a passionate software developer. With over 7 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliakroger)
-
-
 [Portfolio](https://juliakroger.netlify.app/)
 
 # 🚀 Expertise
