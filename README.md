@@ -1,3 +1,1 @@
-# 👋 Hi there
-
-I'm Julia!
+👋 Hi there
